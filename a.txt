@@ -1,1 +1,1 @@
-github remote
+github remote main
